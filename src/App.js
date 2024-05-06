@@ -2,7 +2,7 @@ import React from "react";
 
 function App() {
   return (
-    <div>Template</div>
+    <div>Template react app</div>
   )  
 }
 
